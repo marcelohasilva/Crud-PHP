@@ -8,4 +8,10 @@ th, td { padding:8px 10px; border-bottom:1px solid #eee; text-align:left; }
 .danger { background:#ffecec; color:#c0392b; }
 label { display:block; margin:8px 0; }
 input { width:100%; padding:8px; box-sizing:border-box; border:1px solid #ddd; border-radius:4px; }
-.errors { background:#fff1f0; border:1px solid #f3c2c0; padding:10px; margin-bottom:12px; }
+.errors { 
+    background:#fff1f0; 
+    border:1px solid #f3c2c0; 
+    padding:10px; 
+    margin-bottom:12px; 
+}
+
